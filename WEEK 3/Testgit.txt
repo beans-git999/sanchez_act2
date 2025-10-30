@@ -1,0 +1,16 @@
+GITHUB
+
+git clone "https://thecopiedhttpurlfromyourrepo"
+git fetch
+git branch
+git checkout branchname
+git pull origin main or git pull origin submainbranch
+git status
+git add "filename.extension"
+git rm "filename"
+git commit -m "your message"
+git stash push "filename"
+git push origin branchname
+
+
+
