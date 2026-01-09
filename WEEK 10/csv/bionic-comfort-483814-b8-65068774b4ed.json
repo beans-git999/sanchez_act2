@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bionic-comfort-483814-b8",
+  "private_key_id": "65068774b4ed99c7e544adc516b804c26ac4a2a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMqkV6qSnaXJpy\n/Oo7Fty0jWRhXKA6oxywA9qXcdnqA2GddiyKNe/2cyjwPJjZbBYbokaGTVaT+ee1\ni6yIO0d/QJ3gQRIb0UR+HbRqQHvgQBMm5S58u/IFeBNSBWtOws5ZxJ9Dq2k1gc1I\nCCEfNe3vPfHhSlquqK7CIOKR224u2FyyKUL1kv1inwczIQ3SO6OvrClfEPrHv4eP\nMo/ydtYE+BDBI2K65VrDcuoHbDYQ9Te5YInBy2Is/E9+6Bkc8R/A9nxnJGsnToR+\ntSvaHBTMb8ayPd/itkhYd/CaVUMRYlLLH/uqnIw0B5msg45WwvkSW91JmuMS/AyI\nRTBXv/FhAgMBAAECggEASkTHrblRTMIp8exBe2vSb1qXwJUCOAUU1fKwEiDoePj9\nJUzK4OStzXsAshzrQorsgt6iRP4vmscnBERJOa55RX5HTCeQ0LNh7XoODDiWO0xF\nJuonsm/pZX6rVCpPRGeAxiaJvN6o8RfHTIpWqqLBUv3hlmWK/rKLqDqSvWcpVqna\nBgaF9oNyzUOuZl5OAxTt4YAXRiqnNCDyAXeRzyIpYH4iQSU+CdUrDhbY2Fh0c/q5\n3ORWSB5H5zly3MADuWAxjmhVKN+6f+3AqClHGVY8rlnZrBZbtupDVXEpzG7YWzvc\nzUc6rp6DMSmUirFW2zq++AR3XGxEgzibEDySDBAy+QKBgQD9y7sQtO9KIVurjn3a\nkQjRQDX6ck8+n+RI9wrshlSJ9dWz5XTKShHY+oFkH7JIi2rXI4nBrUBa7K5Kj2RV\nVQy8mcyUmNVzhOK/FkA7DojqY9EO1M9D0xYlbFBVUZYig0EvAd2P7p91kjg0fexo\nqNZQ3ARPfm+tgsQvWr95mdDlwwKBgQDOcU6zHP5zrCYalRCFEjDaPuoQoYOcATBe\nR8rFQhwiZMgKfxH1x0Xx6lX3gBJ9M2Un0Ve6GmST1xQbCyt9wQD3t6UvP03VQard\nsYxOspZEAAxoXAWHfLvy9ZQ6XY7fV+VVCDAkq0p3G0SPAnqgUsaBeT0D9MQ/fmFY\n2iqZvFaGCwKBgB4X+T965ODaYb9O7xdqmSwOvBfNVB4t4WjRekcfioitUMC7FYUj\nEUi0M4GGzKITfgCyoxQHEhl19Ri8Nf50TkVSy1JXaQAAos5buhQGni+E1HY4v7bg\nIcEgPcpQGUhQXftP8lCtz9SmGOoIgG7MjlUaMZyndmCRn+epkAjAN2f3AoGBAMTQ\n77gBz3FWUWmMbhiAFEUuMBc09PV5iLSJ+35+nbYIoVKofOX2Wu/deqIg3v+wTSNe\nCSYrXXI5Xji+OHOG2zZQRlK6JqlHFvCPAfZResNPzIR+HuNh/woOKYhPhBPYh5K+\n4K9FAxR00bMKKQDKiegMPyiTZbom8gY00OKK1W6rAoGAahpbElAx+EZ//g4Bdyc3\nkPyAGF61KPZHcuygZvwiZyIJbthpKX70FXXmJRHSXyWaO8DwQdyuGVcl8fOadfqU\nysb2DL58Dm6rehDYfDvqNupQpdue8Ji87tvYirvRkWgTyvxRuaDppEs2wcYpHpPY\nLZXDV/eWE+9F/x7Lzew0P4E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "myproject@bionic-comfort-483814-b8.iam.gserviceaccount.com",
+  "client_id": "104746589795800202685",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myproject%40bionic-comfort-483814-b8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
